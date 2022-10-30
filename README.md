@@ -1,5 +1,5 @@
 # SolarpunkPostscript
-An incomplete collection of resources and prompts curated, edited, and commented on by Loes Bogers
+*An incomplete collection of resources and prompts curated, edited, and commented on by Loes Bogers*
 
 There is no cloud, just other people's computers. Virtual reality is as real as the hot air blowing from a server farm. While the effects of the global climate crisis are becoming increasingly visible, in both media representations and our everyday experiences, efforts to change course and radically remake the ways we create our own surroundings and the infrastructures we depend on are slow, too slow. 
 
